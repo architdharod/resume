@@ -1,4 +1,4 @@
-:email: `archit.dharod@student.fhws.de` |  :telephone_receiver:+49 176 35812089
+:email: `archit.dharod@student.fhws.de`  |  :telephone_receiver:+49 176 35812089
 # Archit Dharod
 
 ## Current endeavour  
@@ -30,14 +30,14 @@ Specialization in Robotics and Automation
 <br>
 
 **Internship**  
-*Fehrmann GmbH - Metal foundary*  
+*Fehrmann GmbH - Metal foundry*  
 *Hamburg, Germany*  
 *January 2019 - March 2019*  
 
 - Primary metal forming, metal manufacturing processes, assembly, quality assurance.
 <br>
 
-**Student assistant**  
+**Student Assistant**  
 *Technische Universität Hamburg (TUHH)*  
 *Hamburg, Germany*  
 *October 2015 - April 2016*
