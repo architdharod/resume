@@ -8,16 +8,16 @@ Specialization in Robotics and Automation
 *since October 2019*
 
 ## Skills & Tools ## 
-- **Programming languages:** Object oriented C++, Python and C#. 
+- **Programming languages:** Object Oriented C++, Python and C# 
 -  **Frameworks:** Robot Operating System (ROS)
 -  **Version control:** GIT & GitHub
 - **Other programming languages:** SIMATIC Step 7, Hardware Description Language - System Varilog and HTML/CSS 
 - **3D modelling:** AutoCAD Inventor
-- **Other software programs:** Matlab - Simulink, Gazebo simulator & Adobe Lightroom
+- **Other software programs:** Matlab - Simulink, Gazebo Simulator & Adobe Lightroom
 
 ## Experience ##
 **Internship**  
-*ZF Friedrichshafen - Production Tech Center Robotics & vision*  
+*ZF Friedrichshafen - Production Tech Center Robotics & Vision*  
 *Schweinfurt, Germany*  
  *April 2021 - September 2021*  
 
@@ -34,7 +34,7 @@ Specialization in Robotics and Automation
 *Hamburg, Germany*  
 *January 2019 - March 2019*  
 
-- Primary metal forming, metal manufacturing processes, assembly, quality assurance, etc.
+- Primary metal forming, metal manufacturing processes, assembly, quality assurance.
 <br>
 
 **Student assistant**  
