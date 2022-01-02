@@ -44,3 +44,7 @@ Specialization in Robotics and Automation
 
 - Tutor for mathematics and technical mechanics.
 - Digitalization of scripts and solutions using LaTex.
+
+<br>
+<br>
+<sup>(This format was inspired by stephencorwin on GitHub)</sup>
