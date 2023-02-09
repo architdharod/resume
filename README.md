@@ -8,8 +8,8 @@ Specialization in Robotics and Automation
 *since October 2019*
 
 ## Skills & Tools ## 
+[![My Skills](https://skillicons.dev/icons?i=ts,react,nodejs,html,css,mysql,docker,figma,git,github)](https://skillicons.dev)
 - **Programming languages and libraries:** TypeScript, ReactJS, Node.JS, HTML, CSS3, MySQL and Docker  
-- [(https://skillicons.dev/icons?i=js,html,css,wasm)]
 -  **Version control:** GIT & GitHub
 - **Other tools:** Figma, Adobe Lightroom
 
