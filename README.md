@@ -1,4 +1,4 @@
-:email: `archit.dharod@student.fhws.de`  |  :telephone_receiver:+49 176 35812089
+:email: `mail@dharod.de`  |  :telephone_receiver:+49 176 35812089
 # Archit Dharod
 
 ## Current endeavour  
@@ -8,12 +8,10 @@ Specialization in Robotics and Automation
 *since October 2019*
 
 ## Skills & Tools ## 
-- **Programming languages:** Object Oriented C++, Python and C# 
--  **Frameworks:** Robot Operating System (ROS)
+- **Programming languages and libraries:** TypeScript, ReactJS, Node.JS, HTML, CSS3, MySQL and Docker  
+- [(https://skillicons.dev/icons?i=js,html,css,wasm)]
 -  **Version control:** GIT & GitHub
-- **Other programming languages:** SIMATIC Step 7, Hardware Description Language - System Varilog and HTML/CSS 
-- **3D modelling:** AutoCAD Inventor
-- **Other software programs:** Matlab - Simulink, Gazebo Simulator & Adobe Lightroom
+- **Other tools:** Figma, Adobe Lightroom
 
 ## Experience ##
 **Internship**  
