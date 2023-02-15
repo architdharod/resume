@@ -1,3 +1,9 @@
+## (This was the old way to present my CV, until i found out a better way to do it!)
+[here is the link to the new CV](https://github.com/architdharod)
+
+<br>
+<br>
+
 :email: `mail@dharod.de`  |  :telephone_receiver:+49 176 35812089
 # Archit Dharod
 
